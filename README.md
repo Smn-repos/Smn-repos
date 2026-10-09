@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 🙌
 
-<!--
-**Smn-repos/Smn-repos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Simon, a cyber security enthusiast based in Czech.
 
-Here are some ideas to get you started:
+💡 **Mindset:** Driven by curiosity—if a realistic idea sparks my interest, I build it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus & Hands-On Work
+- I'm currerntly building Active Directory enviroment on dedicated lab machine.
+- I'm actively trying to improve my documentation skills by practicing on my personal projects.
+- I'm currently studying for the Comptia Security+ and IBM QRadar certifications.
+
+### 🛠️ Featured Projects
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| **Java Book Library** | `Java`, `OOP` | Interactive library management system built to practice object-oriented design patterns. |
+| **Encrypted P2P Messenger** | `Python`, `Cryptography` | Peer-to-peer messaging application supporting customizable encryption algorithms per session. |
+| **Travel Agency DB Migration** | `SQL`, `PostgreSQL` | Designed a relational database schema for a travel agency, executed migration to PostgreSQL, and documented the end-to-end pipeline. |
