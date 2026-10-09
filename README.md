@@ -2,9 +2,9 @@
 
 I'm Simon, a cyber security enthusiast based in Czech.
 
-💡 **Mindset:** Driven by curiosity—if a realistic idea sparks my interest, I build it.
+If a realistic idea sparks my interest, I build it.
 
-### 🚀 Current Focus & Hands-On Work
+### 🚀 Current Focus
 - I'm currerntly building Active Directory enviroment on dedicated lab machine.
 - I'm actively trying to improve my documentation skills by practicing on my personal projects.
 - I'm currently studying for the Comptia Security+ and IBM QRadar certifications.
